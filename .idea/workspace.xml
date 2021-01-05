@@ -4,21 +4,7 @@
     <option name="SPLITTER_PROPORTION" value="0.97493035" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="828baef1-46d9-4c9f-abe3-9b618a9c4c11" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/train/IO_Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/train/MapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/train/Season.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/train/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/train/TreeSetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/train/task_1$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/train/task_1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/train/task_2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/train/task_3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/train/task_4$MathOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/train/task_4.class" beforeDir="false" />
-    </list>
+    <list default="true" id="828baef1-46d9-4c9f-abe3-9b618a9c4c11" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/template/AbstractTemplate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="589">
+              <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
               <folding>
                 <element signature="e#211#212#0" expanded="true" />
                 <element signature="e#247#248#0" expanded="true" />
@@ -107,6 +93,9 @@
     <option name="PATH_TO_GIT" value="D:\Git\bin\git.exe" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="5b5eb7a1-a016-4146-83cc-6a88443aa035" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -225,27 +214,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="threadpool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -410,7 +378,7 @@
       <workItem from="1608964259376" duration="2047000" />
       <workItem from="1609241351831" duration="4462000" />
       <workItem from="1609291229406" duration="368000" />
-      <workItem from="1609821482129" duration="2928000" />
+      <workItem from="1609821482129" duration="3074000" />
     </task>
     <servers />
   </component>
@@ -447,7 +415,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="96737000" />
+    <option name="totallyTimeSpent" value="96883000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -460,23 +428,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Capture Tool" order="0" />
       <window_info id="Image Layers" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.38157895" side_tool="true" weight="0.14343163" />
       <window_info id="Designer" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.6184211" visible="true" weight="0.23659517" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.6184211" visible="true" weight="0.19571045" />
       <window_info id="Structure" order="6" sideWeight="0.18571429" side_tool="true" weight="0.17158177" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.12719299" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.7707182" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.32872927" />
-      <window_info anchor="bottom" id="Run" order="7" visible="true" weight="0.4185083" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.4185083" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.40469614" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -858,8 +825,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/template/AbstractTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="589">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
           <folding>
             <element signature="e#211#212#0" expanded="true" />
             <element signature="e#247#248#0" expanded="true" />
