@@ -6,14 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="828baef1-46d9-4c9f-abe3-9b618a9c4c11" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/Fail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/visitor/Fail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/visitor/Man.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/Success.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/visitor/Success.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/visitor/Visitor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/visitor/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/visitor/Woman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/visitor/Fail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/visitor/Fail.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/visitor/Man.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/visitor/Man.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/visitor/Woman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/visitor/Woman.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -131,10 +123,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/java/util/ArrayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
+            <state relative-caret-position="67">
               <caret line="135" column="7" selection-start-line="135" selection-start-column="7" selection-end-line="135" selection-end-column="7" />
               <folding>
                 <element signature="e#6252#6253#0" expanded="true" />
@@ -157,11 +149,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/iterator/College.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="176">
+              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -237,12 +229,12 @@
         <option value="$PROJECT_DIR$/src/main/java/visitor/Woman.java" />
         <option value="$PROJECT_DIR$/src/main/java/iterator/Department.java" />
         <option value="$PROJECT_DIR$/src/main/java/iterator/InfoCollege.java" />
-        <option value="$PROJECT_DIR$/src/main/java/iterator/College.java" />
         <option value="$PROJECT_DIR$/src/main/java/iterator/ComputerCollege.java" />
         <option value="$PROJECT_DIR$/src/main/java/iterator/ComputerCollegeIterator.java" />
         <option value="$PROJECT_DIR$/src/main/java/iterator/InfoCollegeIterator.java" />
         <option value="$PROJECT_DIR$/src/main/java/iterator/OutputImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/iterator/Client.java" />
+        <option value="$PROJECT_DIR$/src/main/java/iterator/College.java" />
       </list>
     </option>
   </component>
@@ -300,6 +292,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DesignPattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iterator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="designpattern" type="b2602c69:ProjectViewProjectNode" />
@@ -472,7 +472,7 @@
       <workItem from="1614515245882" duration="1374000" />
       <workItem from="1614653755103" duration="4610000" />
       <workItem from="1614747767104" duration="404000" />
-      <workItem from="1614748236189" duration="643000" />
+      <workItem from="1614748236189" duration="1348000" />
     </task>
     <servers />
   </component>
@@ -509,7 +509,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115587000" />
+    <option name="totallyTimeSpent" value="116292000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -528,10 +528,10 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.38157895" side_tool="true" weight="0.14343163" />
       <window_info id="Designer" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.6818182" visible="true" weight="0.29825738" />
-      <window_info id="Structure" order="6" sideWeight="0.3181818" side_tool="true" visible="true" weight="0.29825738" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.6823204" visible="true" weight="0.29825738" />
+      <window_info id="Structure" order="6" sideWeight="0.31767955" side_tool="true" weight="0.29825738" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.24033149" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.6491713" />
       <window_info anchor="bottom" id="Database Changes" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
@@ -962,16 +962,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/iterator/College.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_40/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
+        <state relative-caret-position="67">
           <caret line="135" column="7" selection-start-line="135" selection-start-column="7" selection-end-line="135" selection-end-column="7" />
           <folding>
             <element signature="e#6252#6253#0" expanded="true" />
@@ -981,6 +974,13 @@
             <element signature="e#30684#30685#0" expanded="true" />
             <element signature="e#30716#30717#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/iterator/College.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
         </state>
       </provider>
     </entry>
