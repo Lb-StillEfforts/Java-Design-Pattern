@@ -2,6 +2,7 @@ package decorator;
 
 /* 具体的调味品 */
 public class Milk extends Decorator {
+
     public Milk(Drink drink) {
         super(drink);
         setDesc(" 牛奶 ");
