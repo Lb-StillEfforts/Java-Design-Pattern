@@ -1,7 +1,6 @@
 package visitor;
 
 public class Fail implements Visitor {
-
     @Override
     public void getResult(Person person) {
         if (person instanceof Man) {
@@ -14,4 +13,14 @@ public class Fail implements Visitor {
             System.out.println("****************");
         }
     }
+
+//    @Override
+//    public void getManResult(Person person) {
+//        System.out.println("男性对此的评价为:失败");
+//    }
+//
+//    @Override
+//    public void getWomanResult(Person person) {
+//        System.out.println("女性对次的评价为:失败");
+//    }
 }

@@ -16,8 +16,8 @@ public interface Visitor {
      * 如果将两个甚至多个函数全部拆开，则破坏了依赖倒置原则，依赖的是具体元素，但是满足了单一职责原则，
      * 在这种情况下无需判断传入类型，一个函数只执行一种操作(扩展性好)
      */
-//    void getManResult(Man man);
+//    void getManResult(Person person);
 //
-//    void getWomanResult(Woman woman);
+//    void getWomanResult(Person person);
 
 }

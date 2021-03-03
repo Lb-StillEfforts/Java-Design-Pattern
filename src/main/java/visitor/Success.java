@@ -15,4 +15,15 @@ public class Success implements Visitor {
         }
 
     }
+
+//    对应第二种写法
+//    @Override
+//    public void getManResult(Person person) {
+//        System.out.println("男性对此的评价为:成功");
+//    }
+//
+//    @Override
+//    public void getWomanResult(Person person) {
+//        System.out.println("女性对次的评价为:成功");
+//    }
 }

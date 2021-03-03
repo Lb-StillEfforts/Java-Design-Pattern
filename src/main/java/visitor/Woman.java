@@ -4,5 +4,6 @@ public class Woman extends Person {
     @Override
     void accept(Visitor visitor) {
         visitor.getResult(this);
+//        visitor.getWomanResult(this);
     }
 }
